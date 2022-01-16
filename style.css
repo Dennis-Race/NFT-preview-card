@@ -21,6 +21,7 @@ body {
     height: auto;
     border-radius: 1rem;
     padding: 25px;
+    margin: 0 15px;
 }
 
 .card-image {
